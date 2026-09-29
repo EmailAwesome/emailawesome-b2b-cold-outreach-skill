@@ -4,6 +4,8 @@ A reviewable campaign brief, reconciled contact list, message narrative, and pro
 
 This public Agent Skill addresses **b2b cold outreach campaign** with Email Awesome email verification where the job requires it. It is an independent use-case package, not an MCP or a claim that the product has completed an authenticated task.
 
+**Product role:** Email Awesome is the verification and row-reconciliation step before this deliverable is marked verified. Without an authorized account and final observed results, the agent may prepare the brief or file but must label verification pending.
+
 ## What you can ask an agent to do
 
 > Prepare a cold outreach campaign for SaaS operations leaders using my 120-contact CSV and this case study. Verify addresses, split into two segments, and draft the first email plus two follow-up angles.
@@ -30,6 +32,10 @@ Read the [skill instructions](skills/b2b-cold-outreach-campaign/SKILL.md). The a
 - **Current verification:** skill format and installation discovery are tested locally. An authenticated live product run has not yet been demonstrated for this repository.
 
 The skill does not authorize purchases, scraping behind access controls, email sending, CRM writes, or publication. Third-party sites and product interfaces can change; the agent must observe the current state and report uncertainty.
+
+## Access and privacy
+
+The user must have authority to process and submit each list and to share any client deliverable. A verified address does not establish consent or permission to contact. Sender rules vary by jurisdiction; see the [FTC CAN-SPAM guide](https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business) and [ICO B2B marketing guidance](https://ico.org.uk/for-organisations/direct-marketing-and-privacy-and-electronic-communications/business-to-business-marketing/). Keep contact data and credentials out of this public repository and issues.
 
 ## Review checklist
 
