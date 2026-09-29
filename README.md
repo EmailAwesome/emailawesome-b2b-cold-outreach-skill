@@ -72,7 +72,7 @@ The user must have authority to process and submit each list and to share any cl
 ## Related resources and support
 
 - [Email Awesome product skill](https://github.com/EmailAwesome/emailawesome-email-verification-agent-skills) for setup and product operation.
-- [Email Awesome Cold Sales use case](https://www.emailawesome.com/use-cases?utm_source=github&utm_medium=agent_skill&utm_campaign=b2b-cold-outreach-campaign) for product context.
+- [Email Awesome Cold Sales use case](https://www.emailawesome.com/use-cases/cold-sales?utm_source=github&utm_medium=agent_skill&utm_campaign=b2b-cold-outreach-campaign) for product context.
 - [Report a reproducible issue](https://github.com/EmailAwesome/emailawesome-b2b-cold-outreach-skill/issues) using redacted or synthetic examples. For account, billing or service issues, use support inside the product.
 - [Contribution guide](CONTRIBUTING.md) and [security guidance](SECURITY.md).
 
