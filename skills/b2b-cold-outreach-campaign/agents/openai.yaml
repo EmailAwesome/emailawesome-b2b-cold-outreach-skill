@@ -1,0 +1,4 @@
+interface:
+  display_name: "B2B Cold Email Campaign Preparation with Email Awesome"
+  short_description: "Prepare evidence-based outputs for this workflow"
+  default_prompt: "Use $b2b-cold-outreach-campaign to prepare my authorized workflow and explain the product steps."
