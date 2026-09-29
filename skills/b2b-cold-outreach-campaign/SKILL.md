@@ -2,6 +2,9 @@
 name: b2b-cold-outreach-campaign
 description: "Prepare a B2B cold outreach campaign before its first send: segment an authorized prospect list, verify addresses with Email Awesome, and draft channel-aware messaging. Use for campaign strategy and review, not email sending."
 license: MIT
+metadata:
+  author: EmailAwesome
+  repository: https://github.com/EmailAwesome/emailawesome-b2b-cold-outreach-skill
 ---
 
 # B2B Cold Email Campaign Preparation with Email Awesome

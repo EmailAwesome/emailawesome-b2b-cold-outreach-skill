@@ -1,5 +1,7 @@
 # B2B Cold Email Campaign Preparation with Email Awesome
 
+**Official Email Awesome agent skills** · Published and maintained by [EmailAwesome](https://github.com/EmailAwesome), the official Email Awesome GitHub organization. [Visit Email Awesome](https://www.emailawesome.com/).
+
 A reviewable campaign brief, reconciled contact list, message narrative, and proposed touches by channel before any email is sent. This Agent Skill helps **b2b sales, founders, and outbound agencies preparing a first-contact campaign** prepare an evidence-based result using Email Awesome for email address verification before first contact.
 
 
